@@ -212,5 +212,4 @@ venv/
 .env/
 
 # Data / outputs 
-data/retail_db/
 data/retail_db_json/
